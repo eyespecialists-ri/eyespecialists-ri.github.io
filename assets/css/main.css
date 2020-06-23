@@ -79,9 +79,8 @@ input, select, textarea {
 }
 
 .box1,
-.box2,
-.box3 {
-  width: 700;
+.box2 {
+  width: 500;
   height: 500;
   vertical-align: top;
   display: inline-block;
