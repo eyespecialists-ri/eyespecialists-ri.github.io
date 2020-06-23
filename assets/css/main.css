@@ -1,5 +1,5 @@
 @import url("fontawesome-all.min.css");
-@import url("https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400,600|IBM+Plex+Sans:700");
+@import url("https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400,500,600|IBM+Plex+Sans:700");
 
 /*
 	Strongly Typed by HTML5 UP
@@ -76,6 +76,17 @@ input, select, textarea {
 	-webkit-appearance: none;
 	-ms-appearance: none;
 	appearance: none;
+}
+
+.box1,
+.box2,
+.box3 {
+  width: 700;
+  height: 500;
+  vertical-align: top;
+  display: inline-block;
+  *display: inline;
+  zoom: 1
 }
 
 /* Basic */
@@ -1959,11 +1970,11 @@ input, select, textarea {
 		position: relative;
 		position: relative;
 		background: #f0f0f0;
-		text-align: left;
+		text-align: center;
 	}
 
 		#header2 > .container {
-			padding: 12em 0 5em 0;
+			padding: 7em 0 5em 0;
 /*			border-bottom: solid 2px #e5e5e5;
 			box-shadow: inset 0px -8px 0px 0px #fff, inset 0px -10px 0px 0px #e5e5e5;
 */		}
@@ -1988,7 +1999,7 @@ input, select, textarea {
 			margin: 1.5em 0 0 0;
 			font-size: 1.2em;
 /*			letter-spacing: 3px;
-*/			text-align: left;
+*/			text-align: center;
 		}
 
 /* Nav */
