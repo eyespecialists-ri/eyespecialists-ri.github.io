@@ -1,5 +1,6 @@
 @import url("fontawesome-all.min.css");
-@import url("https://fonts.googleapis.com/css?family=Lato:300,400,600|Lato:700");
+@import url("https://fonts.googleapis.com/css?family=Helvetica Neue Light:300,400,600|Helvetica Neue Light:700");
+@import url("https://fonts.googleapis.com/css?family=Helvetica+Neue+Light:300,400,600|Helvetica+Neue+Light:700");
 
 /*
 	Strongly Typed by HTML5 UP
@@ -105,7 +106,7 @@ input, select, textarea {
 		}
 
 	body, input, textarea, select {
-		font-family: 'Lato';
+		font-family: 'Helvetica Neue Light';
 		font-weight: 300;
 		color: #000000;
 		line-height: 1.65em;
@@ -1931,7 +1932,7 @@ input, select, textarea {
 */		}
 
 		#header h1 {
-			font-family: 'Lato';
+			font-family: 'Helvetica Neue Light';
 			font-weight: 700;
 			color: #000000;
 			/*text-shadow: 0.05em 0.075em 0 rgba(0, 0, 0, 0.1);*/
@@ -1970,7 +1971,7 @@ input, select, textarea {
 */		}
 
 		#header2 h1 {
-			font-family: 'Lato';
+			font-family: 'Helvetica Neue Light';
 			font-weight: 700;
 			color: #000000;
 			/*text-shadow: 0.05em 0.075em 0 rgba(0, 0, 0, 0.1);*/
