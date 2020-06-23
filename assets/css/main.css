@@ -1,5 +1,5 @@
 @import url("fontawesome-all.min.css");
-@import url("https://fonts.googleapis.com/css?family=Noto+Serif:300,400,600|Noto+Serif:700");
+@import url("https://fonts.googleapis.com/css?family=Lato:300,400,600|Lato:700");
 
 /*
 	Strongly Typed by HTML5 UP
@@ -105,7 +105,7 @@ input, select, textarea {
 		}
 
 	body, input, textarea, select {
-		font-family: 'Noto Serif';
+		font-family: 'Lato';
 		font-weight: 300;
 		color: #000000;
 		line-height: 1.65em;
@@ -219,7 +219,7 @@ input, select, textarea {
 	}
 
 	.container.background{
-	    background-image: url("images/water_full_40.jpg");
+	    background-image: url("images/warwick.jpg");
 	    background-repeat: no-repeat;
 	    background-position: center;
 	    background-size: cover;
@@ -1931,7 +1931,7 @@ input, select, textarea {
 */		}
 
 		#header h1 {
-			font-family: 'Noto Serif';
+			font-family: 'Lato';
 			font-weight: 700;
 			color: #000000;
 			/*text-shadow: 0.05em 0.075em 0 rgba(0, 0, 0, 0.1);*/
@@ -1970,7 +1970,7 @@ input, select, textarea {
 */		}
 
 		#header2 h1 {
-			font-family: 'Noto Serif';
+			font-family: 'Lato';
 			font-weight: 700;
 			color: #000000;
 			/*text-shadow: 0.05em 0.075em 0 rgba(0, 0, 0, 0.1);*/
